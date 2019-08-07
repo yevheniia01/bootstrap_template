@@ -1,0 +1,8 @@
+.container-fluid{
+    height: 400px;
+    background-image: url('./download.jpeg');
+    background-size: cover;
+}
+.my-col{
+    text-align: center;
+}
