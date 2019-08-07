@@ -3,7 +3,7 @@ body{
 }
 .first{
     height: 400px;
-    background-image: url('./download.jpeg');
+    background-image: url('./images/download.jpeg');
     background-size: cover;
 }
 .my-col{
