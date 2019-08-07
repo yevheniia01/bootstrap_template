@@ -1,8 +1,18 @@
-.container-fluid{
+body{
+    background: black;
+}
+.first{
     height: 400px;
     background-image: url('./download.jpeg');
     background-size: cover;
 }
 .my-col{
     text-align: center;
+}
+.carousel-col{
+    padding: 0px;
+}
+.coffee-header{
+    text-align: center;
+    color: white;
 }
